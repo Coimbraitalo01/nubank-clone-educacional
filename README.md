@@ -1,12 +1,27 @@
-# React + Vite
+# 🟣 Nubank Clone Educacional
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um clone educacional da interface do Nubank criado com React + Vite.
 
-Currently, two official plugins are available:
+![Preview do Nubank Clone](https://raw.githubusercontent.com/Coimbraitalo01/nubank-clone-educacional/main/Preview.png?raw=true)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-Preview: https://github.com/Coimbraitalo01/nubank-clone-educacional/blob/main/Preview.png
-## Expanding the ESLint configuration
+## 🚀 Tecnologias Utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [TypeScript](https://www.typescriptlang.org/) (opcional)
+- [Tailwind CSS](https://tailwindcss.com/) ou outro framework CSS
+
+## 🔧 Configuração Recomendada
+
+Este template inclui:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react) (usando Babel)
+- Configuração básica de ESLint
+
+Para TypeScript, considere usar o [template oficial](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts).
+
+## 🛠️ Como Executar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/Coimbraitalo01/nubank-clone-educacional.git
